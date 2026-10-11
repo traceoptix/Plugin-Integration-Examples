@@ -1,0 +1,4 @@
+.venv/
+.browsers/
+test-results/
+traceoptix.env

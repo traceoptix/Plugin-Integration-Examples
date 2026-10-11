@@ -1,0 +1,13 @@
+.DS_Store
+
+# Any playwright-report folder in any subdirectory
+**/*/playwright-report
+*/*/playwright-report
+
+# Any .features-gen folder in any subdirectory
+**/*/.features-gen
+*/*/.features-gen
+
+# Any test-results folder in any subdirectory
+**/*/test-results
+*/*/test-results

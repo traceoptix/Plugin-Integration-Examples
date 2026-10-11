@@ -1,0 +1,6 @@
+# Run pip from this sample directory; the plugin is not published to PyPI yet.
+-e ../..
+# After publishing to PyPI, replace the local install above with:
+# pytest-traceoptix[requests]>=0.1.0,<1
+pytest-playwright>=0.7,<1
+requests>=2.32,<3
